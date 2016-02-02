@@ -1,6 +1,6 @@
 Taller-Git
 -----------------
-Readme de rama feature1
+Modificacion en rama de pedro
 
 
 El objetivo de de este taller es aprender los fundamentos del control de versiones GIT mediante los comandos básicos
