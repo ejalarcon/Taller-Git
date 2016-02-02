@@ -6,9 +6,9 @@ public class Subject2
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args)
+	public static void main(final String[] args)
 	{
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub asdfasdf
 
 	}
 
