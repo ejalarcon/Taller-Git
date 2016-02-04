@@ -47,6 +47,9 @@ git merge Alerta_C6
 git branch -d Alerta_C6
 git push origin Alerta_C6
 
+9) Subir cambios al repositorio remoto
+
+git push origin master
 
 Configuraciones adicionales:
 ------------------------------
