@@ -56,11 +56,11 @@ Comandos básicos de GIT:
 	git push origin v1.0
 
 
-10) Subir cambios al repositorio remoto
+10) Subir cambios al repositorio remoto (con --all sube todo: ficheros, ramas, etiquetas)
 
 	git push origin master
 
-	git push https://username:password@github.com/ejalarcon/Taller-Git.git --all
+	git push https://username:password@github.com/ejalarcon/Taller-Git.git
 	
 	
 11) Actualizar cambios de GitHub remoto
