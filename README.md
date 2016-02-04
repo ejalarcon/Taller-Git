@@ -14,8 +14,9 @@ Comandos básicos de GIT:
 
 2) Creación proyecto Java con maven:
 
-mvn archetype:generate -DgroupId=com.bbva.kata1 -DartifactId=emilio  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
-mvn eclipse:clean eclipse:eclipse clean install
+	mvn archetype:generate -DgroupId=com.bbva.kata1 -DartifactId=emilio  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+	
+	mvn eclipse:clean eclipse:eclipse clean install
 
 3) Añadir todos los ficheros
 
@@ -59,6 +60,9 @@ mvn eclipse:clean eclipse:eclipse clean install
 
 	git push origin master
 
+	git push https://username:password@github.com/ejalarcon/Taller-Git.git --all
+	
+	
 11) Actualizar cambios de GitHub remoto
 
 	git pull
@@ -87,5 +91,7 @@ Por ejemplo, para proyectos Java:
 - Configuración de Proxy:
 
 	git config --global http.proxy http://user:password@host:puerto
+
+
 	
 
