@@ -40,8 +40,9 @@ Comandos básicos de GIT:
 	git fetch origin
 	git reset --hard origin/master
 
-8) Creación de una rama, volver a rama master, merge, borrar rama, subir rama a repo
-
+8) Consultar ramas, Creación de una rama, volver a rama master, merge, borrar rama, subir rama a repo
+	
+	git branch
 	git checkout -b Alerta_C6
 	git checkout master
 	git merge Alerta_C6
