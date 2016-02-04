@@ -1,21 +1,12 @@
-Taller-Git
+Taller Git, 05/02/2016
 -----------------
-Readme de rama feature1
+Comandos basico de GIT:
 
+1) Ayuda y Versión GIT
+	git
+	git help commit
+	git --version
 
-El objetivo de de este taller es aprender los fundamentos del control de versiones GIT mediante los comandos básicos
+2) Creación proyecto Java con maven:
 
-
-
-Fundamentos de GIT
-
-Instalación de GIT
-
-Comandos básicos de GIT
-
-Trabajando con GIT Hub
-Clonar repositorio remoto
-Comandos Push y Pull
-Creando ramas y Tags
-Realizando merge entre ramas
-
+mvn archetype:generate -DgroupId=com.bbva.kata1 -DartifactId=emilio  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
