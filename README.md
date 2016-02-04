@@ -1,7 +1,7 @@
 Taller Git, 05/02/2016
 ------------------------------
 
-Comandos basico de GIT:
+Comandos básicos de GIT:
 
 1) Ayuda, Versión GIT, Status, Configuracion, Mostrar historial
 
