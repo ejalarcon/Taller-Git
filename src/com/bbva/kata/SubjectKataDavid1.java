@@ -8,7 +8,7 @@ public class SubjectKataDavid1
 	 */
 	public static void main(final String[] args)
 	{
-		System.out.println("no soy manolo ");
+		System.out.println("no soy manolo  ");
 
 	}
 
