@@ -1,6 +1,6 @@
 
 public class Prueba {
 	
-	private String pruebaDeSabor = "";
+	private String pruebaDeSabor = "hola";
 
 }
