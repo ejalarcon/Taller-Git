@@ -12,7 +12,7 @@ Comandos básicos de GIT:
 	git config -l
 	git log
 
-2) Creación proyecto Java con maven:
+2) Creación proyecto Java con maven 3.5:
 
 	mvn archetype:generate -DgroupId=com.bbva.kata1 -DartifactId=emilio  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 	
