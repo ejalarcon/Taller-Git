@@ -93,6 +93,14 @@ Por ejemplo, para proyectos Java:
 
 	git config --global http.proxy http://user:password@host:puerto
 
+- Comparación de ramas/branch
 
+Desde líneas de comando en el proyecto git ejecutar:
+
+     git diff --stat --color master..DEV-00
+
+NOTA: previamente hay bajar todas la tags a local:
+
+git fetch --tags 
 	
 
