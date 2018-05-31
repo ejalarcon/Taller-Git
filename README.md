@@ -102,5 +102,13 @@ Desde líneas de comando en el proyecto git ejecutar:
 NOTA: previamente hay bajar todas la tags a local:
 
 git fetch --tags 
+
+- En caso de error al realizar un git clone en Windows por "Filename too long error":
+
+Error: Git checkouts fail on Windows with "Filename too long error: unable to create file" errors
+
+Solución:
+
+git config --system core.longpaths true
 	
 
